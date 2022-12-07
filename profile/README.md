@@ -25,7 +25,7 @@ they can begin listing games.
 <img align="right" src="assets/Home_Page.png" width="32%">
 <img align="right" src="assets/Login_Page.png" width="32%">
 <img align="right" src="assets/Game_Detail_Page.png" width="32%">
-<img align="right" src="assets/Profile_Page.png" width="32%">
+<img align="right" src="assets/Profile_Page.png" width="10%">
 </div>
 
 <div align="left">
