@@ -25,7 +25,6 @@ they can begin listing games.
 <p float="right">
 <img align="" src="assets/Home_Page.png" width="25%">
 <img align="" src="assets/Login_Page.png" width="25%">
-<br>
 </p>
 <p float="right">
 <img align="" src="assets/Profile_Page.png" width="25%">
