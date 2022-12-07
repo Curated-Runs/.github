@@ -22,10 +22,10 @@ they can begin listing games.
 </p>
 
 <div align="right" width="66%">
-<img align="right" src="assets/Login_Page.png" alt="Sign in page" width="33%">
 <img align="right" src="assets/Home_Page.png" alt="Sign in page" width="33%">
-<img align="right" src="assets/Profile_Page.png" alt="Sign in page" width="33%">
+<img align="right" src="assets/Login_Page.png" alt="Sign in page" width="33%">
 <img align="right" src="assets/Game_Detail_Page.png" alt="Sign in page" width="33%">
+<img align="right" src="assets/Profile_Page.png" alt="Sign in page" width="33%">
 </div>
 
 <div align="left" width="33%">
@@ -129,7 +129,7 @@ Otherwise, just use whatever 'run' capability is present in your IDE of choice.
   <br><a href="https://docs.flutter.dev/deployment/android">Android Deployment</a>
 </p>
 
-<img align="right" src="Team_Omni_Logo.png" alt="Team Omni logo" width="128">
+<img align="right" src="assets/Team_Omni_Logo.png" alt="Team Omni logo" width="128">
 <h2>Team Omni</h2>
 <li>Adrian Armenta</li>
 <li style="text-indent: 20px">Contact: adrianarmenta@csus.edu</li>
