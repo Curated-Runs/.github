@@ -54,10 +54,10 @@ they can begin listing games.
 <h2>Product Images</h2>
 
 <div>
-<img src="assets/Home_Page.png" width="50%">
-<img src="assets/Login_Page.png" width="50%">
-<img src="assets/Profile_Page.png" width="50%">
-<img src="assets/Game_Detail_Page.png" width="50%">
+<img src="assets/Home_Page.png" width="49%">
+<img align="right" src="assets/Login_Page.png" width="49%">
+<img src="assets/Profile_Page.png" width="49%">
+<img align="right" src="assets/Game_Detail_Page.png" width="49%">
 </div>
 
 <h2>Developer Instructions</h2>
