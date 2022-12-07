@@ -22,10 +22,10 @@ they can begin listing games.
 </p>
 
 <div align="right" width="67%">
-<img align="right" src="assets/Home_Page.png" alt="Sign in page" width="32%">
-<img align="right" src="assets/Login_Page.png" alt="Sign in page" width="32%">
-<img align="right" src="assets/Game_Detail_Page.png" alt="Sign in page" width="32%">
-<img align="right" src="assets/Profile_Page.png" alt="Sign in page" width="32%">
+<img align="right" src="assets/Home_Page.png" width="32%">
+<img align="right" src="assets/Login_Page.png" width="32%">
+<img align="right" src="assets/Game_Detail_Page.png" width="32%">
+<img align="right" src="assets/Profile_Page.png" width="32%">
 </div>
 
 <div align="left" width="33%">
