@@ -29,8 +29,9 @@ they can begin listing games.
 </p>
 <p float="right">
 
-<img align="right" src="assets/Game_Detail_Page.png" width="32%">
+
 <img align="right" src="assets/Profile_Page.png" width="32%">
+<img align="right" src="assets/Game_Detail_Page.png" width="32%">
 </p>
 </div>
 
