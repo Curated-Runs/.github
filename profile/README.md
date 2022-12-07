@@ -20,18 +20,6 @@ through facilitating local sports.
 begin signing up for games as soon as their account is created. Facility accounts must first be manually reviewed before
 they can begin listing games.
 </p>
-
-<div align="right" width="67%">
-<p float="right">
-<img align="right" src="assets/Home_Page.png" width="30%">
-<img align="right" src="assets/Login_Page.png" width="30%">
-</p>
-<p float="right">
-<img align="right" src="assets/Profile_Page.png" width="30%">
-<img align="right" src="assets/Game_Detail_Page.png" width="30%">
-</p>
-</div>
-
 <div align="left" width="33%">
 <h3>User Features</h3>
 <li>Create account via email and password, or through third party authentication</li>
@@ -39,6 +27,15 @@ they can begin listing games.
 <li>Browse through nearby events</li>
 <li>Sign up for events</li>
 <li>Leave joined events</li>
+
+<div align="right" width="67%">
+<img align="right" src="assets/Home_Page.png" width="30%">
+<img align="right" src="assets/Login_Page.png" width="30%">
+<img align="right" src="assets/Profile_Page.png" width="30%">
+<img align="right" src="assets/Game_Detail_Page.png" width="30%">
+</div>
+
+
 
 <h3>Facility Features</h3>
 <li>Create account via email and password</li>
