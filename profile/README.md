@@ -21,16 +21,6 @@ begin signing up for games as soon as their account is created. Facility account
 they can begin listing games.
 </p>
 
-<div align="right" width="67%">
-<img align="right" src="assets/Home_Page.png" width="30%">
-<img align="right" src="assets/Login_Page.png" width="30%">
-<br>
-<img align="right" src="assets/Profile_Page.png" width="30%">
-<img align="right" src="assets/Game_Detail_Page.png" width="30%">
-</div>
-
-<div align="left" width="33%">
-
 <h3>User Features</h3>
 <li>Create account via email and password, or through third party authentication</li>
 <li>Edit personal user information</li>
@@ -58,8 +48,17 @@ they can begin listing games.
 <li>Google Sign In</li>
 <li>Apple Sign In</li>
 <li>Google Maps</li>
-</div>
+
 <br clear="both">
+
+<h2>Product Images</h2>
+
+<div>
+<img src="assets/Home_Page.png" width="50%">
+<img src="assets/Login_Page.png" width="50%">
+<img src="assets/Profile_Page.png" width="50%">
+<img src="assets/Game_Detail_Page.png" width="50%">
+</div>
 
 <h2>Developer Instructions</h2>
 
