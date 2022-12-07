@@ -28,7 +28,7 @@ they can begin listing games.
 <img align="right" src="assets/Profile_Page.png" width="32%">
 </div>
 
-<div align="left" width="33%">
+<div align="left">
 <h3>User Features</h3>
 <li>Create account via email and password, or through third party authentication</li>
 <li>Edit personal user information</li>
