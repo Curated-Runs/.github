@@ -26,7 +26,6 @@ they can begin listing games.
 <img src="assets/Login_Page.png" width="32%">
 <img src="assets/Home_Page.png" width="32%">
 </p>
-<br>
 <p float="right">
 <img src="assets/Profile_Page.png" width="32%">
 <img src="assets/Game_Detail_Page.png" width="32%">
