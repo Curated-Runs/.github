@@ -120,7 +120,7 @@
   If youre running from a command line, use the command<br>
     
   ```
-  flutter run -d PREFIX_OF_DEVICE_NAME
+  flutter run -d PREFIX_OF_DEVICE_NAME 
   ```
   
   Once the simulator is running, where PREFIX_OF_DEVICE_NAME is something like 
