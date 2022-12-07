@@ -52,10 +52,14 @@ they can begin listing games.
 <br clear="both">
 
 <h2>Product Images</h2>
-<img src="assets/Home_Page.png" width="45%">
+<p float="left">
 <img src="assets/Login_Page.png" width="45%">
-<img src="assets/Profile_Page.png" width="45%">
+<img src="assets/Home_Page.png" width="45%">
+</p>
+<p float="left">
 <img src="assets/Game_Detail_Page.png" width="45%">
+<img src="assets/Profile_Page.png" width="45%">
+</p>
 
 <h2>Developer Instructions</h2>
 
