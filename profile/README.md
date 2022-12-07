@@ -23,12 +23,12 @@ they can begin listing games.
 
 <div align="right" width="66%">
 <p float="right">
-<img src="assets/Login_Page.png" width="32%">
-<img src="assets/Home_Page.png" width="32%">
+<img align="right" src="assets/Login_Page.png" width="32%">
+<img align="right" src="assets/Home_Page.png" width="32%">
 </p>
 <p float="right">
-<img src="assets/Profile_Page.png" width="32%">
-<img src="assets/Game_Detail_Page.png" width="32%">
+<img align="right" src="assets/Profile_Page.png" width="32%">
+<img align="right" src="assets/Game_Detail_Page.png" width="32%">
 </p>
 </div>
 
