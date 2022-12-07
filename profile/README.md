@@ -43,7 +43,7 @@
 <li>Can review participants that have joined their events</li>
 
 <h2>Technology Used</h2>
-
+ 
 <h3>Front End</h3>
 <li>Flutter and Dart</li>
 <li>Bloc Architecture</li>
