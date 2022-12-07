@@ -57,8 +57,8 @@ they can begin listing games.
 <img src="assets/Home_Page.png" width="45%">
 </p>
 <p float="left">
-<img src="assets/Game_Detail_Page.png" width="45%">
 <img src="assets/Profile_Page.png" width="45%">
+<img src="assets/Game_Detail_Page.png" width="45%">
 </p>
 
 <h2>Developer Instructions</h2>
