@@ -21,7 +21,7 @@ begin signing up for games as soon as their account is created. Facility account
 they can begin listing games.
 </p>
 
-<div align="right" width="66%">
+<div align="right" width="67%">
 <img align="right" src="assets/Home_Page.png" alt="Sign in page" width="32%">
 <img align="right" src="assets/Login_Page.png" alt="Sign in page" width="32%">
 <img align="right" src="assets/Game_Detail_Page.png" alt="Sign in page" width="32%">
