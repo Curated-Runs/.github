@@ -52,11 +52,12 @@ they can begin listing games.
 <br clear="both">
 
 <h2>Product Images</h2>
+<table>
 |Test|Table|
 |---|---|
 |<img src="assets/Home_Page.png" width="49%">|<img align="right" src="assets/Login_Page.png" width="49%">|
 |<img src="assets/Profile_Page.png" width="49%">|<img align="right" src="assets/Game_Detail_Page.png" width="49%">|
-
+</table>
 <h2>Developer Instructions</h2>
 
 <h2>Environment</h2>
