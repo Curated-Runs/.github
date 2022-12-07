@@ -22,8 +22,8 @@ they can begin listing games.
 </p>
 
 <div align="right" width="66%">
-<img align="right" src="assets/Home_Page.png" alt="Sign in page" width="33%">
-<img align="right" src="assets/Login_Page.png" alt="Sign in page" width="33%">
+<img align="right" src="assets/Home_Page.png" alt="Sign in page" width="32%">
+<img align="right" src="assets/Login_Page.png" alt="Sign in page" width="32%">
 <img align="right" src="assets/Game_Detail_Page.png" alt="Sign in page" width="32%">
 <img align="right" src="assets/Profile_Page.png" alt="Sign in page" width="32%">
 </div>
