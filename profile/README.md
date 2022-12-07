@@ -21,7 +21,7 @@ begin signing up for games as soon as their account is created. Facility account
 they can begin listing games.
 </p>
 
-<div align="right" width="66%">
+
 <p float="right">
 <img align="right" src="assets/Home_Page.png" width="32%">
 <img align="left" src="assets/Login_Page.png" width="32%">
@@ -33,7 +33,7 @@ they can begin listing games.
 <img align="left" src="assets/Profile_Page.png" width="32%">
 <img align="right" src="assets/Game_Detail_Page.png" width="32%">
 </p>
-</div>
+
 
 <div align="left" width="33%">
 <h3>User Features</h3>
